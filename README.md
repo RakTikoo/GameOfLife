@@ -6,3 +6,5 @@ Press P to unpause and run the Game Of Life Simulation.
 Press P again to pause. 
 
 Press R to reset the canvas. 
+
+![./Game_Of_Life_ScreenShot.png]
