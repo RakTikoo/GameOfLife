@@ -7,4 +7,4 @@ Press P again to pause.
 
 Press R to reset the canvas. 
 
-![./Game_Of_Life_ScreenShot.png]
+![Running Simulation](./Game_Of_Life_ScreenShot.png)
